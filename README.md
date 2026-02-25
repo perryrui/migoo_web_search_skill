@@ -1,0 +1,1 @@
+# migoo_web_search_skill
